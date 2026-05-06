@@ -240,21 +240,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Support
 
-For issues, questions, or suggestions, please open an issue on GitHub.
-
-## Roadmap
-
-- [ ] Integration with real log aggregation systems
-- [ ] Database RAG integration for incident history
-- [ ] Multi-tenant support
-- [ ] API endpoint for programmatic access
-- [ ] Slack/PagerDuty integration
-- [ ] Custom LLM fine-tuning on incident data
-- [ ] Distributed agent execution
-- [ ] Advanced visualization dashboards
-
----
 
 **Built with**: LangGraph • Ollama • Streamlit • LangChain
